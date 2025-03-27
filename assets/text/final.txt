@@ -1,0 +1,5 @@
+Queen
+N
+Your birthday is tomorrow, Your Majesty. Shall we turn in for the evening so you are well rested for the celebration?
+sefui
+Of course. You wouldn’t want to be tired on such a special day.

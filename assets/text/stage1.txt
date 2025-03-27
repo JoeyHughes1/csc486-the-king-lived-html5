@@ -1,0 +1,65 @@
+queen
+n
+King, many of us have been noticing some unrest in our citizens. You've become King only recently so some sow doubts as to your ruling capability. Of course, we know you are very purposeful in your decisions, so this is surely quite ridiculous. Shall we remind the people of just how capable you are of ruling?
+No, you say. You're right, we need not address the rumors. They will see just how well you can rule!
+Yes, you say. Right away. We shall hold a speech in the town square on how such rumors will not be tolerated.
+
+butler
+y
+As you know, Kitty, our beloved royal cat, has run sick. Some townspeople have approached us claiming to have new medicines that could cure her. We are unsure, should we ignore them and simply focus on her diet instead?
+We will take care of her. There is no need for risky medicines, it must just be a momentary sickness. She will surely recover.
+Right. The townspeople care as much as about Kitty as us, we should let them show their appreciation through some medicine. This couldn't go wrong!
+
+noble
+y
+Some travelers have come into town and shown the townspeople how to "hit the griddy" and "whip and nae nae." These dances have grown into quite the commotion. Shall we enforce a ban on this new craze?
+Of course. It has indeed become quite annoying to many in the town.
+You're right, we need not interrupt this. Although, those who are not into this dance may have some complaints.
+
+butler
+n
+The park near the south end of our city has grown unkempt. Shall we demolish it to make room for some new houses instead?
+Yes, the park is indeed quite important to many citizens. Perhaps we shall put more effort into maintenance.
+Very well. Consider the park gone!
+
+Knight
+N
+Rumors are spreading that the neighboring kingdom is preparing for war with our beloved Thanatia. Should we strike first?
+You’re right, rumors are just rumors.
+You’re right, we can’t let them catch us unaware.
+
+Butler
+N
+Your Majesty’s favorite wine has increased greatly in price recently. Should we raise the people’s taxes to account for this expense?
+What a just king, sacrificing his comforts for his people.
+Of course, Your Majesty’s happiness is worth any price.
+
+Maid
+Y
+The beloved royal cat, Kitty, has begun scratching furniture throughout the palace, leaving claw marks everywhere. Should we get her ye olde cat tree to keep her from scratching the furniture?
+Of course, this will keep Kitty happy and save the furniture.
+Of course, as the royal cat, Kitty should be allowed to scratch wherever she pleases.
+
+Jester
+y
+The people seem to love the shows my troupe and I put on, but not everyone can afford admission. Can we perform in public for all to see? Pretty please?
+Thanks, Your Majesty! We’ll do our best to bring joy to the people!
+Darn… I mean, of course, Your Majesty! I know that the theatre’s profits are an important source of income.
+
+Kitty
+Y
+Meow? (Pet me?)
+Purr
+Hiss
+
+Noble
+Y
+The far reaches of Thanatia are experiencing a drought. Will you send resources from the capital to support us?
+Thank you, Your Majesty. Your graciousness will help us make it through the coming months.
+I appreciate your consideration, Your Majesty. I understand that there are no resources to spare. 
+
+Queen
+Y
+The people want to hear from their king. Will you make a speech addressing your people?
+Your people will be delighted to hear from you.
+I understand. You are a busy man, after all.

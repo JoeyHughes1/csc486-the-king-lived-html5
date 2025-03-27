@@ -1,0 +1,53 @@
+Jester
+y
+Children in the kingdom have been singing a nursery rhyme about His Majesty’s incompetence. Should we let this joke spread?
+Yay! There’s no harm in a silly little joke.
+Rats… I’ll keep the joke from spreading.
+
+Knight
+n
+A beloved tavern keeper has been found guilty of murder. He’s been arrested, but there is unrest among some at his imprisonment. Should we release him?
+You’re right, being beloved by the people does not absolve his crimes.
+You’re right, keeping the people happy is far more important.
+
+Queen
+Y
+Some of the palace’s staff members have expressed that they don’t believe their work is being fairly compensated. Should we raise their wages?
+Of course, they deserve to be paid for their hard work.
+Very well, their wages will remain the same.
+
+Kitty
+Y
+Meow? (Can I have salmon for dinner?)
+Meow!
+Hiss!
+
+Noble
+N
+There are rumors of witchcraft spreading through the kingdom. Should we put the accused on trial?
+Of course. These are baseless accusations.
+Very well. I will have the knights arrest the accused.
+
+Butler
+Y
+The roads throughout the kingdom are growing rough with age. Travelers are reporting broken carriages and injured horses. Should we use the reserves in the treasury to repair the roads?
+This is a great idea. The people will be incredibly grateful.
+Very well. The travelers will have to pay the price instead.
+
+Maid
+Y
+The drought has spread to the capital of Thanatia and the farmers are expecting a poor harvest. Shall we ask our allies for supplies?
+Certainly. I’ll send a message to the neighboring kingdom.
+As you wish. I suppose the drought may pass.
+
+Knight
+Y
+Our weapons and armor have grown tired and worn with age. Discontent is spreading among the ranks. Will you invest in acquiring newer armor and weapons for your army?
+Thank you! With good replacements, I'm sure the ranks will be pleased.
+Of course, funds must be low with all that's going on.
+
+Noble
+Y
+Many loyal nobles in the castle have reported suspected treasonous activity. Shall we investigate these claims and give these traitors what they deserve?
+As is expected. They shall be taken care of at once!
+Understood. These are only suspicions after all. The reports shall be promptly ignored. 
